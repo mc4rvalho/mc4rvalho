@@ -12,6 +12,7 @@ Meu foco é me tornar um desenvolvedor **Full Stack** (ou Front-end Specialist),
 
 - 🌍 Moro no Brasil
 - ✉️ Você pode entrar em contato comigo pelo e-mail [mcarvalho093@gmail.com](mailto:mcarvalho093@gmail.com)
+- 🧠 Estou aprendendo React.js e AngulasJs
 
 ## Habilidades
 
