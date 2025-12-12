@@ -1,16 +1,14 @@
-## Hi there 👋
+Olá! ====================================================================== ====================================================================== Desenvolvedor Full Stack ------------------------ \# 👨‍💻 \[Seu Nome\] Bem-vindo ao meu perfil! Sou um entusiasta de código focado em criar experiências web incríveis. \## 🛠️ O que estou fazendo? | Categoria | Tecnologias | Estado | | :--- | :--- | :--- | | \*\*Linguagens\*\* | JavaScript, TypeScript | 🟢 Consolidando | | \*\*Front-end\*\* | ReactJS | 🟡 Estudando Ativamente | | \*\*Front-end\*\* | Angular | 🟡 Estudando Ativamente | \## 🎯 Objetivo Meu foco é me tornar um desenvolvedor \*\*Full Stack\*\* (ou Front-end Specialist), capaz de transitar entre diferentes frameworks com facilidade, utilizando a tipagem forte do TypeScript para criar códigos escaláveis. \## ⚡ Vamos conectar? \[!\[LinkedIn\](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)\](LINK\_DO\_SEU\_LINKEDIN) * 🌍 Estou no Brasil * ✉️ Você pode me contatar pelo e-mail [mcarvalho093@gmail.com](mailto:mcarvalho093@gmail.com)
 
-<!--
-**mc4rvalho/mc4rvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a> <a <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a> <a href="https://angular.io/" target="_blank" rel="noreferrer"><img <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" alt="Angular" title="Angular" width="36" height="36" /></a>
+</p>
 
-Here are some ideas to get you started:
+### Redes Sociais
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <a href="https://www.github.com/m" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /></picture></a> </p> <a href="https://www.linkedin.com/in/http://matheus-carvalho-b22254201/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" largura="32" altura="32" alt="LinkedIn" título="LinkedIn" /> </picture> </a>
+### Insígnias
+
+<b>Minhas estatísticas do GitHub</b>
+
+<a href="http://www.github.com/mc4rvalho"><img src="https://github-readme-stats.vercel.app/api?username=mc4rvalho&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Estatísticas do GitHub de mc4rvalho" /></a>
