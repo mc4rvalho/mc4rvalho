@@ -7,8 +7,3 @@ Olá! ====================================================================== ===
 ### Redes Sociais
 
 <p align="left"> <a href="https://www.github.com/m" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /></picture></a> </p> <a href="https://www.linkedin.com/in/http://matheus-carvalho-b22254201/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" largura="32" altura="32" alt="LinkedIn" título="LinkedIn" /> </picture> </a>
-### Insígnias
-
-<b>Minhas estatísticas do GitHub</b>
-
-<a href="http://www.github.com/mc4rvalho"><img src="https://github-readme-stats.vercel.app/api?username=mc4rvalho&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Estatísticas do GitHub de mc4rvalho" /></a>
